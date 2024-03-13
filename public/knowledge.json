@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co/JdX0gtf/istockphoto-905508166-1024x1024.jpg",
+      "title": "The Art of Programming",
+      "author": "John Doe",
+      "author-img": "https://i.ibb.co/JH6jVDR/photo-1603415526960-f7e0328c63b1.jpg",
+      "post-date": "2024-03-13",
+      "reading-time": "10 min",
+      "hashtags": ["programming", "coding", "technology"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co/4sV0J5h/istockphoto-480187760-1024x1024.jpg",
+      "title": "Cooking Basics: From Beginner to Expert",
+      "author": "Jane Smith",
+      "author-img": "https://i.ibb.co/fXMtpts/istockphoto-1382688293-1024x1024.jpg",
+      "post-date": "2024-03-12",
+      "reading-time": "15 min",
+      "hashtags": ["cooking", "food", "recipes"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co/Lr7Y7CF/istockphoto-980838288-1024x1024.jpg",
+      "title": "The Ultimate Guide to Travel Photography",
+      "author": "Alex Johnson",
+      "author-img": "https://i.ibb.co/JvV4gBF/istockphoto-587218174-170667a.webp",
+      "post-date": "2024-03-11",
+      "reading-time": "20 min",
+      "hashtags": ["photography", "travel", "adventure"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co/6w39vQp/premium-photo-1665329006985-04f95dd59402.jpg",
+      "title": "Fitness Journey: From Couch Potato to Marathon Runner",
+      "author": "Emily Brown",
+      "author-img": "https://i.ibb.co/2ZK2VNX/photo-1602471615287-d733c59b79c4.jpg",
+      "post-date": "2024-03-10",
+      "reading-time": "25 min",
+      "hashtags": ["fitness", "running", "health"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co/cJK07n8/photo-1522199755839-a2bacb67c546.jpg",
+      "title": "Mastering Mindfulness: A Guide to Inner Peace",
+      "author": "Michael Lee",
+      "author-img": "https://i.ibb.co/s1my3rx/photo-1438761681033-6461ffad8d80.jpg",
+      "post-date": "2024-03-09",
+      "reading-time": "30 min",
+      "hashtags": ["mindfulness", "meditation", "wellness"]
+    }
+  ]
+  
